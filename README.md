@@ -102,14 +102,14 @@ an [AGPLv3 license](https://github.com/we-promise/sure/blob/main/LICENSE).
 - "Sure" is not, and refers to this community fork.
 
 <!-- MOBILE_DOWNLOADS_START -->
-## Latest Mobile Build: main-202602201142
+## Latest Mobile Build: v0.7.3-release-branch-202608181523
 
-**Build from**: `main` branch
+**Build from**: `v0.7.3-release-branch` branch
 
 ### Direct Downloads
 
-- **Android APK**: [sure-main-202602201142.apk](https://github.com/we-promise/sure/releases/download/main-build-202602201142/sure-main-202602201142.apk)
-- **iOS Build (unsigned)**: [sure-main-202602201142-ios-unsigned.zip](https://github.com/we-promise/sure/releases/download/main-build-202602201142/sure-main-202602201142-ios-unsigned.zip)
+- **Android Debug APK**: [sure-v0.7.3-release-branch-202608181523-debug.apk](https://github.com/brayooo/sure/releases/download/v0.7.3-release-branch-build-202608181523/sure-v0.7.3-release-branch-202608181523-debug.apk)
+- **iOS Build (unsigned)**: [sure-v0.7.3-release-branch-202608181523-ios-unsigned.zip](https://github.com/brayooo/sure/releases/download/v0.7.3-release-branch-build-202608181523/sure-v0.7.3-release-branch-202608181523-ios-unsigned.zip)
 
-> **Note**: These are development builds from `main` intended for testing purposes. For production use, please use a tagged release or build from source with proper signing credentials.
+> **Note**: These are development builds from `v0.7.3-release-branch` intended for testing purposes. For production use, please use a tagged release or build from source with proper signing credentials.
 <!-- MOBILE_DOWNLOADS_END -->
